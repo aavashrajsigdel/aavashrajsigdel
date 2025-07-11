@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **PostgreSQL, React.js, Supabase, tailwind and ethical hacking**
 
-- 📫 How to reach me **aavash.workspace@gmail.com**
+- 📫 How to reach me **hello@aavashsigdel.dev**
 
 - 📄 Know about my experiences [https://aavashsigdel.dev](https://aavashsigdel.dev)
 
