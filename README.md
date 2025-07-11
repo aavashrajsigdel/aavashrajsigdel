@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **optimizing large-scale applications & advanced network security practices**
 
-- 👨‍💻 All of my projects are available at [https://aavash.orbitex.com](https://aavash.orbitex.com)
+- 👨‍💻 All of my projects are available at [https://aavashsigdel.dev](https://aavashsigdel.dev)
 
 - 📝 I regularly write articles on [https://dev.to/aavashrajsigdel](https://dev.to/aavashrajsigdel)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aavash.workspace@gmail.com**
 
-- 📄 Know about my experiences [https://aavash.orbitex.com/experiences](https://aavash.orbitex.com/experiences)
+- 📄 Know about my experiences [https://aavashsigdel.dev](https://aavashsigdel.dev)
 
 - ⚡ Here's a quote I love **“Code is like humor. When you have to explain it, it’s bad.” – Cory House**
 
